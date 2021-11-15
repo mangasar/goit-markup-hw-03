@@ -237,6 +237,8 @@ img {
     font-size: 16px;
     line-height: 1.1;
     letter-spacing: 0.03em;
+    padding-top: 30px;
+    text-align: center;
   }
   
   .section-team p {
@@ -244,7 +246,10 @@ img {
     font-size: 16px;
     line-height: 1.1;
     letter-spacing: 0.03em;
-    padding-bottom: 124px;
+    padding-top: 10px;
+    padding-bottom: 30px;
+    margin-bottom: 94px;
+    text-align: center;
   }
   
   .section-team .list{
@@ -374,16 +379,12 @@ color: var(--primery-white-color);
 }
 
 
-
-
-
-/*
-.section-team p {
+.item p {
   font-size: 14px;
   font-weight: 400;
   line-height: 1.7;
   letter-spacing: 0.03em;
   width: 270px;
   margin-bottom: 50px;
+  color: var(--main-color);
 }
-*/
