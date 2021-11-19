@@ -213,7 +213,6 @@ img {
     text-align: center;
     line-height: 1.1;
     letter-spacing: 0.03em;
-    padding-top: 93px;
     margin-bottom: 50px;
   }
 
@@ -259,8 +258,9 @@ img {
   }
   
   .section-team p {
-    font-weight: 500;
+    font-weight: 400;
     font-size: 16px;
+    color:#757575;
     line-height: 1.1;
     letter-spacing: 0.03em;
     text-align: center;
@@ -332,6 +332,7 @@ padding-bottom: 30px;
   font-size: 14px;
   line-height: 1.7;
   letter-spacing: 0.03em;
+  margin-top: 9px;
   
 }
 
@@ -354,7 +355,7 @@ padding-bottom: 50px;
 }
 
 .button-portfolio {
-margin-top: 94px;
+padding-top: 94px;
 padding-bottom: 94px;
 }
 
@@ -405,22 +406,21 @@ color: var(--primery-white-color);
 .subtitle h3{
   font-family: Roboto;
   font-style: normal;
-  font-weight: 500;
-  font-size: 16px;
-  line-height: 1.18;
-  letter-spacing: 0.03em;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 2;
+  letter-spacing: 0.06em;
   color: #212121;
   
 }
 .subtitle p {
-  font-size: 14px;
+  font-size: 16px;
   font-weight: 400;
-  line-height: 1.7;
   letter-spacing: 0.03em;
   width: 270px;
-  color: var(--main-color);
+  color:#757575;
   margin-top: 4px;
-  line-height: 1.18;
+  line-height: 1.87;
 }
 
 .subtitle {
