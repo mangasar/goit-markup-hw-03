@@ -178,6 +178,10 @@ img {
   padding-bottom: 94px;
 }
 
+.section-list li{
+  width: 270px;
+}
+
 .section-list h3 {
   font-weight: 700;
   font-size: 14px;
